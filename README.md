@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mnematolahi
 - 👀 I’m interested in Hacking and pentesting
-- 🌱 I’m currently learning honepot project
-- 💞️ I’m looking to collaborate on you!
+- 🌱 I’m currently working on honeypot project
+- 💞️ I’m looking to collaborate on hacking!
 - 📫 How to reach me : nematolahi64@gmail.com
 🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸
 - 🥷 More about me 🥷
@@ -15,7 +15,7 @@
 - 👨‍💼 Executive manager
 - 🧩 2 company co-funder 
 - 🔐 Security researcher
-- 📡 Mikrotik and Ubnt
+- 📡 Mikrotik and Ubnt wireless antenass
 - ☎️ Voip and telephony systems
 - 🕸️ network
 - 🧑‍💻 IT manager
